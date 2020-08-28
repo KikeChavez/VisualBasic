@@ -1,0 +1,12 @@
+C:\Users\Enrique\source\repos\Repo\Repo\bin\Debug\Repo.exe.config
+C:\Users\Enrique\source\repos\Repo\Repo\bin\Debug\Repo.exe
+C:\Users\Enrique\source\repos\Repo\Repo\bin\Debug\Repo.pdb
+C:\Users\Enrique\source\repos\Repo\Repo\bin\Debug\Repo.xml
+C:\Users\Enrique\source\repos\Repo\Repo\obj\Debug\Repo.vbprojAssemblyReference.cache
+C:\Users\Enrique\source\repos\Repo\Repo\obj\Debug\Repo.Form1.resources
+C:\Users\Enrique\source\repos\Repo\Repo\obj\Debug\Repo.Resources.resources
+C:\Users\Enrique\source\repos\Repo\Repo\obj\Debug\Repo.vbproj.GenerateResource.cache
+C:\Users\Enrique\source\repos\Repo\Repo\obj\Debug\Repo.vbproj.CoreCompileInputs.cache
+C:\Users\Enrique\source\repos\Repo\Repo\obj\Debug\Repo.exe
+C:\Users\Enrique\source\repos\Repo\Repo\obj\Debug\Repo.xml
+C:\Users\Enrique\source\repos\Repo\Repo\obj\Debug\Repo.pdb
